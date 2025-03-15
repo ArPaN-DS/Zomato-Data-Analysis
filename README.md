@@ -16,7 +16,7 @@ This project performs **data analysis on Zomato orders, customers, and restauran
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/zomato-data-analysis.git
+   git clone https://github.com/ArPaN-DS/zomato-data-analysis.git
    ```
 2. Navigate to the project folder:
    ```bash
